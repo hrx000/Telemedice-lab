@@ -157,3 +157,17 @@ server {
 ## More Resources
 
 [Building a simple Keras + deep learning REST API](https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html)
+Some glimpse of final output web-
+![Screenshot (179)](https://user-images.githubusercontent.com/51284717/163803530-6a2a6a60-b901-4f2c-9315-289086076f2f.png)
+![Screenshot (180)](https://user-images.githubusercontent.com/51284717/163803555-4aa2c9d1-14fe-4d36-a431-ee19c541b1ab.png)
+![Screenshot (181)](https://user-images.githubusercontent.com/51284717/163803575-54add827-8044-4c85-b582-8c2ebe34d7d2.png)
+![Screenshot (182)](https://user-images.githubusercontent.com/51284717/163803584-95a50468-443f-43cd-9182-e677376be8f5.png)
+![Screenshot (183)](https://user-images.githubusercontent.com/51284717/163803601-fa32a080-a5a1-4056-aecf-005ae085b3b2.png)
+![Screenshot (184)](https://user-images.githubusercontent.com/51284717/163803619-a26c44bf-881b-49b7-9d69-307a2386d049.png)
+![Screenshot (192)](https://user-images.githubusercontent.com/51284717/163803636-9d452262-840c-45e7-923c-d083414fa454.png)
+![Screenshot (189)](https://user-images.githubusercontent.com/51284717/163803652-a53e2e7d-8f01-4a6e-ac32-45056f407f24.png)
+![Screenshot (193)](https://user-images.githubusercontent.com/51284717/163803662-de98c81e-4152-45f0-b17b-f953d2e42dae.png)
+![Screenshot (304)](https://user-images.githubusercontent.com/51284717/163803728-6f973efd-03f2-4116-9e9e-d200d6ceea45.png)
+
+
+
